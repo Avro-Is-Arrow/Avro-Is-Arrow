@@ -1,6 +1,6 @@
 Hello, I am Avro :) 
 
-> I'm a game developer, artist, and many other things. Currently in college for Game Development and Simulation. <
+> I'm a game developer, artist, and many other things. Currently in college for Game Development and Simulation. 
 
 📖 Loading Knowledge... Computing... 📖
 * C#
@@ -18,7 +18,7 @@ Hello, I am Avro :)
 * Drawing
 
 Feel free to reach me on my...
-  Discord: [operator_avro]
+  * Discord: [operator_avro]
   
 ⚡ Fun fact: the bread is tastier than the key
 
