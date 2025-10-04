@@ -1,6 +1,6 @@
 Hello, I am Avro :) 
 
-I'm a game developer, artist, and many other things. Currently in college for Game Development and Simulation.
+> I'm a game developer, artist, and many other things. Currently in college for Game Development and Simulation. <
 
 📖 Loading Knowledge... Computing... 📖
 * C#
@@ -11,11 +11,11 @@ I'm a game developer, artist, and many other things. Currently in college for Ga
 * OSINT
 
 🔥Currently Learning... 🔥
-> Narrative Design
-> Game Design
-> Advanced Vectors, Matrices, etc
-> Pixel Art
-> Drawing
+* Narrative Design
+* Game Design
+* Advanced Vectors, Matrices, etc
+* Pixel Art
+* Drawing
 
 Feel free to reach me on my...
   Discord: [operator_avro]
