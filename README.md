@@ -3,12 +3,12 @@ Hello, I am Avro :)
 I'm a game developer, artist, and many other things. Currently in college for Game Development and Simulation.
 
 📖 Loading Knowledge... Computing... 📖
-> C#
-> Python
-> Unity
-> Blender
-> Git
-> OSINT
+* C#
+* Python
+* Unity
+* Blender
+* Git
+* OSINT
 
 🔥Currently Learning... 🔥
 > Narrative Design
