@@ -18,7 +18,7 @@ Hello, I am Avro :)
 * Drawing
 
 Feel free to reach me on my...
-  * Discord: [operator_avro]
+  * Discord: [_avro_arrow_]
   
 ⚡ Fun fact: the bread is tastier than the key
 
