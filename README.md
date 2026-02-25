@@ -9,19 +9,20 @@ Hello, I am Avro :)
 * Blender
 * Git
 * OSINT
+* Game Development related math
 
 🔥Currently Learning... 🔥
-* Narrative Design
+* Project Management
 * Game Design
-* Advanced Vectors, Matrices, etc
-* Pixel Art
-* Drawing
+* Graphics Programming (GLSL)
+* Advanced OOP
+
 
 Feel free to reach me on my...
   * Discord: __avro_arrow__
   * Instagram: Avro.py
   
-⚡ Fun fact: the bread is tastier than the key
+⚡ Fun fact: The bread is tastier than the key....
 
 <!---
 Avro-Is-Arrow/Avro-Is-Arrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
