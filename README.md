@@ -21,6 +21,11 @@ Hello, I am Avro :)
 Feel free to reach me on my...
   * Discord: __avro_arrow__
   * Instagram: Avro.py
+
+Extra links:
+
+https://www.shadertoy.com/user/avro
+https://www.artstation.com/avro_arrow
   
 ⚡ Fun fact: The bread is tastier than the key....
 
